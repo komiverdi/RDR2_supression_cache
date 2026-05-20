@@ -12,7 +12,7 @@ Script Python qui supprime automatiquement les fichiers de cache pipeline D3D12 
 
 - Python 3.7+
 - Windows 10/11
-- Red Dead Redemption 2 installé via Rockstar Games Launcher
+- Red Dead Redemption 2 installé via Rockstar Games Launcher, sur steam ou encore cracké (tant que vous avez le jeu et le fichier rockstar game dans documents)
 
 ---
 
